@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 45d488a1008d3574b92bf06e6a16b37a
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_Dn_wall01_png
+    second: {fileID: 2100000, guid: 6f29e5acf8677e3478d4bbecf26526f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Bush_png
+    second: {fileID: 2100000, guid: f3e917c7bc1d1ec428f75bdc16311c87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_G_Statue01_png
+    second: {fileID: 2100000, guid: 9d9263e79cc5e2a4faf439d3df92b346, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_G_Statue02_png
+    second: {fileID: 2100000, guid: fb36d7a343913f54db5dd2228ab22623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_G_godes02_png
+    second: {fileID: 2100000, guid: 89795c0d9c4fbd54cad20b2c58281e7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_G_godes03_png
+    second: {fileID: 2100000, guid: b9f8e5cde2581da4fac769d603202d1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_G_godes04_png
+    second: {fileID: 2100000, guid: 07a238e7c5b1e1d42b62790b3eb9a1e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_G_godes05_png
+    second: {fileID: 2100000, guid: 71892d19fb89b664aa012238abbb966d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_G_godes06_png
+    second: {fileID: 2100000, guid: 888a6e34671be4c4985c6803cde83acf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_G_godes07_png
+    second: {fileID: 2100000, guid: 2b6ccde6e3dedfc4bb613aeb1d4f9a54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_G_godes08_png
+    second: {fileID: 2100000, guid: 600ea94b7b46e6a4e92d51643af08107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_G_godes09_png
+    second: {fileID: 2100000, guid: 5b56b5698852e624ab576bcc1d10944f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_GoddesMark_png
+    second: {fileID: 2100000, guid: 139724fc8cb59cb46b40a142a0ba8bc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Green_Edge_png
+    second: {fileID: 2100000, guid: 5edbd46bbbab7b94087c7c6d66672406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Green_Road02_png
+    second: {fileID: 2100000, guid: b56acd9a8b75ce142a7893d08fe9a9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Green_png
+    second: {fileID: 2100000, guid: 74b557f00fd22c64a92b112b0bc66b9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Housewall_blue_png
+    second: {fileID: 2100000, guid: fab8023940fb8e34d860d463a1c35330, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Isibasi_Renga_png
+    second: {fileID: 2100000, guid: b5205f4476f74964bae4341bef80cd1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Leaf_png
+    second: {fileID: 2100000, guid: 7231b2b2d85cf5c418356bb25bf82716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_MS_road01_png
+    second: {fileID: 2100000, guid: 36cb7e728e78e7a4180fd5beb57eb5ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_MS_wall01_png
+    second: {fileID: 2100000, guid: 6b7a04a875777d3428a4171ef91bda4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_MS_wall02_png
+    second: {fileID: 2100000, guid: 42245e2460271a44583fe8a105322ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_MS_wall03_png
+    second: {fileID: 2100000, guid: 10518bc7666b1364d974749deb907184, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Nature01_png
+    second: {fileID: 2100000, guid: debdbf101a9c586478cab632985e7d9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Road_stone01_png
+    second: {fileID: 2100000, guid: 265ac378e22d9f44fbbdfa2d1ff2100f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Rock_png
+    second: {fileID: 2100000, guid: 0043f5441d056814b962694631d39a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Rock_road_png
+    second: {fileID: 2100000, guid: 5502ee44a457a884bb8a995c38120d04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Step_png
+    second: {fileID: 2100000, guid: cecd9f97c914e004ca0b2edec15ce8de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Touhuchi01_png
+    second: {fileID: 2100000, guid: ef7b163991e3ecf41b319f770ef46a97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Touyuka01_png
+    second: {fileID: 2100000, guid: e34a7e4562d06f742abb2de5b4d75080, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Trunk_png
+    second: {fileID: 2100000, guid: 382ecc6dda8662142b76230ec097f2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Woodbridge01_png
+    second: {fileID: 2100000, guid: 1d223005abbc35e448624e2d556e6d09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Woodbridge02_png
+    second: {fileID: 2100000, guid: b0b4a2c4eacca3c47802d9229deba149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Woodfence_png
+    second: {fileID: 2100000, guid: 5e34b109d898e5248bc0f3450ea26b58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_Woodpattern_png
+    second: {fileID: 2100000, guid: 5a7e7e68501818345bc28c2dfcf3e79d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_bef_Broken01_png
+    second: {fileID: 2100000, guid: b549ef9bb55566547b531d5207ed26b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_bef_Gate_png
+    second: {fileID: 2100000, guid: 8b38ed697fea91445b8584698ab5349c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_bef_roof01_png
+    second: {fileID: 2100000, guid: 37f239a479d5a7a4fa10b866d49c05a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_bef_roof02_png
+    second: {fileID: 2100000, guid: bfa8bc8206f7925448c29cbe70d3f71a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_bef_wall05_png
+    second: {fileID: 2100000, guid: 3519610f24e2e3c4f918217d1429dfd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_WK2_bef_wall06_png
+    second: {fileID: 2100000, guid: a00e94cdc3405654f93c31328c35922b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F000_cmn_Toudaiza02_png
+    second: {fileID: 2100000, guid: f9bb1d23e4ebfc74890f907d80713499, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
