@@ -2087,7 +2087,7 @@ MonoBehaviour:
     m_Start: 9
     m_ClipIn: 0
     m_Asset: {fileID: -7042834868255490045}
-    m_Duration: 3.8500000000000174
+    m_Duration: 6.5
     m_TimeScale: 1
     m_ParentTrack: {fileID: -2924238137767180446}
     m_EaseInDuration: 0
@@ -3024,7 +3024,7 @@ MonoBehaviour:
     m_Start: 8.8
     m_ClipIn: 0
     m_Asset: {fileID: 1858280602178549844}
-    m_Duration: 0.4499999999999993
+    m_Duration: 0.2333333333333325
     m_TimeScale: 1
     m_ParentTrack: {fileID: 238703367014419152}
     m_EaseInDuration: 0
@@ -3090,7 +3090,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Zoom02 (2)
   - m_Version: 1
-    m_Start: 9.25
+    m_Start: 9.033333333333333
     m_ClipIn: 0
     m_Asset: {fileID: 3225287676022447837}
     m_Duration: 0.3500000000000192
@@ -3159,7 +3159,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CinemachineCamera
   - m_Version: 1
-    m_Start: 9.25
+    m_Start: 9.033333333333333
     m_ClipIn: 0
     m_Asset: {fileID: -1284506604306043345}
     m_Duration: 3.9000000000000288
